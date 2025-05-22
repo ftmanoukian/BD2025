@@ -1,0 +1,1 @@
+input("Hola, escribí algo para continuar: ")
